@@ -1,7 +1,5 @@
 # IKC
 
-Tasks for next meet:[Tasks for next meeting on 8/28/2019 ](https://docs.google.com/spreadsheets/d/1FJHpe6mV1tqLl7fbgZAyWAWyBArXVLY7V1hzWGgc_J4/edit?usp=sharing)
-
 ## Mission 
 To organize knowledge efficiently through collaboration to create deep intuitive understanding in AI, Deep Learning, required mathematics, Neuroscience with a singular focus on solving intelligence. 
 
@@ -29,4 +27,10 @@ We will put all put projects together and try to dig deeper into their basics an
 ## Technologies to Use : 
 We will use github markdown files to combine links of Dropbox paper notes. Most of our Knowledge Base content will be in Dropbox paper.
 
+## Tasks 
+Each member will be assigned Tasks. Each member will get a chance to speak about their task for 2-3 minutes. Whereas, one member who has accomplished concept clarity and want to share with everyone can present for 20 minutes. There will be only one presentation slot per meeting. Rest of the time will be spent on future tasks or getting the tasks done in collaboration at the place of meeting.
 
+## Next Meeting Tasks
+Tasks for next meet:[Tasks for next meeting on 8/28/2019 ](https://docs.google.com/spreadsheets/d/1FJHpe6mV1tqLl7fbgZAyWAWyBArXVLY7V1hzWGgc_J4/edit?usp=sharing) 
+
+## Meeting Agenda 
