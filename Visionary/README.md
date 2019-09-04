@@ -12,4 +12,6 @@ We are starting with following sources at first and then will expand using their
 * The Industries of the Future - Alec Ross.pdf
 * Artificial General Intelligence, Superintelligence, Intelligence Wikipedia articles
 
+Probably after this, we will focus on field specific research papers and review papers. We will go over their introductions, related work and conclusions to draw a more clear picture. We will try to combine disparate views.   
+
  
