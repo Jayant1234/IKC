@@ -25,7 +25,11 @@ This is a Top to Bottom approach. We will try to develop understanding on how di
 We will put all put projects together and try to dig deeper into their basics and at the same time think about the big picture for the concerned projects. This approach is for members who have quite limited time commitments for IKC. This approach is more in sync with course progression as well. 
 
 ## Technologies to Use : 
-We will use github markdown files to combine links of Dropbox paper notes. Most of our Knowledge Base content will be in Dropbox paper.
+We will use github markdown files to combine links of Dropbox paper notes. 
+Most of our Knowledge Base content will be in Dropbox paper.
+Every member is advised to create a separate dropbox id for IKC where they can edit the links shared here. 
+One problem with dropbox will be the 2gb limit.
+Dropbox is so far the best because it has dynamic view tables which will be the core structure on which we will built the knowledge base. 
 
 ## Tasks 
 Each member will be assigned Tasks. Each member will get a chance to speak about their task for 2-3 minutes. Whereas, one member who has accomplished concept clarity and want to share with everyone can present for 20 minutes. There will be only one presentation slot per meeting. Rest of the time will be spent on future tasks or getting the tasks done in collaboration at the place of meeting.
