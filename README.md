@@ -38,3 +38,5 @@ Each member will be assigned Tasks. Each member will get a chance to speak about
 Tasks for next meet:[Tasks for next meeting on 8/28/2019 ](https://docs.google.com/spreadsheets/d/1FJHpe6mV1tqLl7fbgZAyWAWyBArXVLY7V1hzWGgc_J4/edit?usp=sharing) 
 
 ## Meeting Agenda 
+
+[Meeting Agenda](https://docs.google.com/document/d/1ccEMye7PfhchMJ0qU-oaJcdJg6BMQZ8NWaXySWRTm_o/edit?usp=sharing)
